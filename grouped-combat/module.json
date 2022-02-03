@@ -1,0 +1,10 @@
+{
+   "name": "grouped-combat",
+   "title": "Grouped Combat - For When There Are Too Many Minions",
+   "description": "Another option for grouping enemies in initiative.",
+   "author": "SilentArctic",
+   "version": "1.0.0",
+   "minimumCoreVersion": "9",
+   "compatibleCoreVersion": "9",
+   "url": "https://github.com/SilentArctic/grouped-combat-vtt"
+}

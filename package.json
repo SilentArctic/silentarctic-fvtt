@@ -1,0 +1,20 @@
+{
+  "name": "silentarctic-fvtt",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "silent",
+    "arctic",
+    "silentarctic",
+    "foundry",
+    "foundryvtt",
+    "module"
+  ],
+  "author": "SilentArctic",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.7"
+  }
+}
